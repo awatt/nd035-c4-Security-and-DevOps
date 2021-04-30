@@ -13,3 +13,18 @@
 2021-04-30 15:59:34,933 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
 2021-04-30 15:59:35,057 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
 2021-04-30 15:59:36,525 INFO com.example.demo.SareetaApplication [main] Started SareetaApplication in 3.871 seconds (JVM running for 4.174)
+2021-04-30 16:00:06,837 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-30 16:00:06,908 INFO com.example.demo.controllers.UserController [http-nio-8080-exec-2] SUCCESS: user name set with: awatt71
+2021-04-30 16:00:14,947 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-8080-exec-3] HHH000397: Using ASTQueryTranslatorFactory
+2021-04-30 16:00:38,660 INFO com.example.demo.controllers.CartController [http-nio-8080-exec-4] SUCCESS: item added to cart - updated cart total: 2.99
+2021-04-30 16:00:44,791 ERROR com.example.demo.controllers.CartController [http-nio-8080-exec-5] ERROR: cart item Id 3 not found
+2021-04-30 16:00:56,642 INFO com.example.demo.controllers.CartController [http-nio-8080-exec-6] SUCCESS: item added to cart - updated cart total: 6.97
+2021-04-30 16:01:07,446 ERROR com.example.demo.controllers.CartController [http-nio-8080-exec-7] ERROR: user with username awatt73 not found
+2021-04-30 16:01:58,190 INFO com.example.demo.controllers.CartController [http-nio-8080-exec-8] SUCCESS: item removed from cart - updated cart total: 4.98
+2021-04-30 16:02:11,273 INFO com.example.demo.controllers.CartController [http-nio-8080-exec-9] SUCCESS: item removed from cart - updated cart total: 2.99
+2021-04-30 16:02:35,255 ERROR com.example.demo.controllers.OrderController [http-nio-8080-exec-10] ERROR: user with username awatt74 not found
+2021-04-30 16:02:43,474 INFO com.example.demo.controllers.OrderController [http-nio-8080-exec-1] SUCCESS: order submitted
+2021-04-30 16:03:02,805 ERROR com.example.demo.controllers.OrderController [http-nio-8080-exec-2] ERROR: user with username awatt75 not found
+2021-04-30 16:03:08,162 INFO com.example.demo.controllers.OrderController [http-nio-8080-exec-3] SUCCESS: user order history retrieved
+2021-04-30 16:03:24,395 INFO com.example.demo.controllers.UserController [http-nio-8080-exec-4] SUCCESS: user name set with: awatt72
+2021-04-30 16:03:24,396 ERROR com.example.demo.controllers.UserController [http-nio-8080-exec-4] ERROR: invalid password for user: awatt72
