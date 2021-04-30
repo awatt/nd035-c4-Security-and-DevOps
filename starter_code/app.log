@@ -1,0 +1,15 @@
+2021-04-30 15:59:32,957 INFO com.example.demo.SareetaApplication [main] Starting SareetaApplication on sc-a483e760a893 with PID 27799 (/Users/andrewat/Udacity/nd035-c4-Security-and-DevOps/starter_code/target/classes started by andrewat in /Users/andrewat/Udacity/nd035-c4-Security-and-DevOps/starter_code)
+2021-04-30 15:59:32,960 INFO com.example.demo.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2021-04-30 15:59:34,258 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-04-30 15:59:34,258 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-04-30 15:59:34,386 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-04-30 15:59:34,527 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-04-30 15:59:34,691 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-04-30 15:59:34,740 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2021-04-30 15:59:34,804 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2021-04-30 15:59:34,805 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2021-04-30 15:59:34,933 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2021-04-30 15:59:35,057 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-04-30 15:59:36,525 INFO com.example.demo.SareetaApplication [main] Started SareetaApplication in 3.871 seconds (JVM running for 4.174)
